@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: cairo;
+
+}
+
+body{
+    background: darkcyan;
+    direction: rtl;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
